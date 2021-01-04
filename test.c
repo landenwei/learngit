@@ -13,5 +13,7 @@ int main(void)
 
     printf("b = %d.\n", b);
 
+    printf("c = %d.\n", c);
+
     return 0;
 }
